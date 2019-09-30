@@ -3,6 +3,13 @@ This repository presents more examples for the experimental part of _Electro-Mag
 # Denoising results
 100 representative samples are shown for Mask-RCNN, auto-encoder and BM3D. Samples are displayed using the following format: left sample is the reference one (clean), middle is the noisy, right is the denoised. 
 
+[Jump to Mask-RCNN samples](#denoising-using-mask-rcnn)
+
+[Jump to Auto-Encoder samples](#denoising-using-auto-encoder)
+
+[Jump to BM3D samples](#denoising-using-bm3d)
+
+
 ## Denoising using Mask-RCNN
 
 ![](./denoising_results/mrcnn/1.png)
