@@ -323,7 +323,7 @@ This repository presents more examples for the experimental part of _Electro-Mag
 ![](./denoising_results/bm3d/100.png)
 
 
-#Licensing
+## Licensing
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 The data is free to use until you propagate the licence and you cite our paper using the following format:
