@@ -1,5 +1,6 @@
 This repository presents more examples for the experimental part of _Electro-Magnetic Side-Channel Attack Through Learned Denoising and Classification, F. Lemarchand, F. Montreuil, C. Marlin, E. Nogues and M. Pelcat_.
 
+[Jump to license terms](#licensing)
 # Denoising results
 100 representative samples are shown for Mask-RCNN, auto-encoder and BM3D. Samples are displayed using the following format: left sample is the reference one (clean), middle is the noisy, right is the denoised. 
 
