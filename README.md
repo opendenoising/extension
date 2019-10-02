@@ -2,7 +2,7 @@ This repository presents more examples for the experimental part of _Electro-Mag
 
 [Contact and License Terms](#licensing)
 # Denoising results
-100 representative samples are shown for Mask-RCNN, auto-encoder and BM3D. Samples are displayed using the following format: left sample is the reference one (clean), middle is the noisy, right is the denoised. 
+99 representative samples are shown for Mask-RCNN, auto-encoder and BM3D. Samples are displayed using the following format: left sample is the reference one (clean), middle is the noisy, right is the denoised. 
 
 [Jump to Mask-RCNN samples](#denoising-using-mask-rcnn)
 
@@ -104,7 +104,6 @@ This repository presents more examples for the experimental part of _Electro-Mag
 ![](./denoising_results/mrcnn/89.png)
 ![](./denoising_results/mrcnn/90.png)
 ![](./denoising_results/mrcnn/91.png)
-![](./denoising_results/mrcnn/92.png)
 ![](./denoising_results/mrcnn/93.png)
 ![](./denoising_results/mrcnn/94.png)
 ![](./denoising_results/mrcnn/95.png)
@@ -208,7 +207,6 @@ This repository presents more examples for the experimental part of _Electro-Mag
 ![](./denoising_results/ae/89.png)
 ![](./denoising_results/ae/90.png)
 ![](./denoising_results/ae/91.png)
-![](./denoising_results/ae/92.png)
 ![](./denoising_results/ae/93.png)
 ![](./denoising_results/ae/94.png)
 ![](./denoising_results/ae/95.png)
@@ -312,7 +310,6 @@ This repository presents more examples for the experimental part of _Electro-Mag
 ![](./denoising_results/bm3d/89.png)
 ![](./denoising_results/bm3d/90.png)
 ![](./denoising_results/bm3d/91.png)
-![](./denoising_results/bm3d/92.png)
 ![](./denoising_results/bm3d/93.png)
 ![](./denoising_results/bm3d/94.png)
 ![](./denoising_results/bm3d/95.png)
